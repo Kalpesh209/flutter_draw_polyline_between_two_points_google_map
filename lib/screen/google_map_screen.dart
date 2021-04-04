@@ -37,7 +37,7 @@ class _GoogleMapScreenState extends State<GoogleMapScreen> {
   PolylinePoints polylinePoints = PolylinePoints();
   BitmapDescriptor sourceIcon;
   BitmapDescriptor destinationIcon;
-  String googleAPiKey = "AIzaSyC4NrzB9KbpoD7Bi7OWn7dQvJSOa3i7Wh4";
+  String googleAPiKey = "YOUR_GOOGLE_API_KEY";
 
     void _onMapCreated(GoogleMapController controller) async {
     mapController = controller;
