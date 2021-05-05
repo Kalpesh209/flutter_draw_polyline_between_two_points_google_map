@@ -13,13 +13,6 @@ flutter_draw_polyline_between_two_points_google_map project has "main.dart" as E
 - [Drop me your message](https://www.linkedin.com/in/kalpesh-khandla-11693541/)
 - [Drop me your message](https://twitter.com/khandla20)
 
-
-
-https://user-images.githubusercontent.com/48312656/115985357-04226480-a558-11eb-8eb8-85200ff09090.mp4
-
-
-
-
 = = = To Generate Android release steps = = =
 
 Generate FAT APK 
